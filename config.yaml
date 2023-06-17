@@ -57,8 +57,8 @@ params:
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/ameerajimoh/ 
- # image: ''
- # name: 
+  image: ''
+  name: 
   navigation:
     button1:
       - name: Get Started
