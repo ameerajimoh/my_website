@@ -1,4 +1,4 @@
-baseURL: https://ajimoh2023-portfolio.netlify.app
+baseURL: https://ajimoh2023-portfolio.netlify.app/
 languageCode: en-us
 title: Portfolio website for Ameera Jimoh
 theme: forty
@@ -8,8 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      #AND RELEASED UNDER THE CREATIVE COMMONS.
+      CONTENT:
+      COURSE MATERIAL,PROJECTS
     title: Hi, my name is Ameera and I am a MFA student at LBS and this website is for DSB2023
   blog: {}
   contact:
@@ -38,9 +38,9 @@ params:
     copyright: London Business School
     enable: yes
     quicklinks:
-      #- alt: HTML5 UP
-       # text: 'Design: '
-        #url: https://www.html5up.net
+     - alt: HTML5 UP
+       text: 'Design: '
+       url: https://www.html5up.net
     social:
       #- icon: fa-twitter
      #   label: Twitter
@@ -51,14 +51,14 @@ params:
       #- icon: fa-instagram
       #  label: Instagram
        # url: https://www.instagram.com
-      #- icon: fa-github
+      - icon: fa-github
         label: GitHub
         url: https://github.com/ameerajimoh
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/ameerajimoh/ 
-  image: ''
-  name: 
+ # image: ''
+ # name: 
   navigation:
     button1:
       - name: Get Started
@@ -81,10 +81,10 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
-        url: blogs/aliquam
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
@@ -120,3 +120,4 @@ markup:
   goldmark: 
     renderer: 
       unsafe: true
+
