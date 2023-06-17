@@ -1,4 +1,4 @@
-baseURL: https://ajimoh2023-portfolio.netlify.app/
+baseURL: https://ajimoh2023-portfolio.netlify.app
 languageCode: en-us
 title: Portfolio website for Ameera Jimoh
 theme: forty
@@ -21,7 +21,7 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: ajimoh.mfa2023@london.edu
         title: Email
     enable: yes
     phone:
