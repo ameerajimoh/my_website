@@ -7,7 +7,7 @@ description: From an introductory course in RStudio to an elective on data scien
 draft: false
 image: pic08.jpg
 keywords: ""
-slug: tempus
+slug: dataanalytics
 title: Unlocking the Power of Data Analytics
 ---
 

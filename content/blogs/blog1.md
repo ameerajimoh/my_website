@@ -7,7 +7,7 @@ description: "Active Hobbies"
 draft: false
 image: pic10.jpg
 keywords: ""
-slug: ipsum
+slug: sports
 title: Sports
 ---
 

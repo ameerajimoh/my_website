@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Risk-Return of DJIA stocks
+        title: Stock Analysis
         url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Unlocking Opportunities with Data
@@ -94,7 +94,7 @@ params:
         title: Languages
         url: blogs/languages
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
+        subtitle: Active Hobbies
         title: Sports and Activities
         url: blogs/sports
       - image: pic05.jpg

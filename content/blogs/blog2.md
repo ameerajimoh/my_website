@@ -7,7 +7,7 @@ description: Interactive Classes and Cultural Immersion
 draft: false
 image: pic09.jpg
 keywords: ""
-slug: magna
+slug: languages
 title: Spanish Learning Journey at LBS
 ---
 
