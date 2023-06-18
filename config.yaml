@@ -98,9 +98,9 @@ params:
         title: Sports and Activities
         url: blogs/sports
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+        subtitle: Data Manipulation and Analysis of Flights
+        title: Analyzing Flight Details
+        url: blogs/flights
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam

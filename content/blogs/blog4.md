@@ -7,7 +7,7 @@ description: Analyzing flight details using Data Analysis and Manipulation
 draft: false
 image: pic11.jpg
 keywords: ""
-slug: aliquam
+slug: flight
 title: Various Flight Analysis
 ---
 
@@ -92,3 +92,5 @@ most_frequent_plane <- most_frequent_plane %>%
 
 most_frequent_plane
 ```
+
+![](images/pic16.jpg)
