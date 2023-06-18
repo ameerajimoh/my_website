@@ -86,17 +86,17 @@ params:
         title: Aliquam
         url: blogs/risk_return
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Unlocking Opportunities with Data
+        title: The Data Analytics Advantage
+        url: blogs/dataanalytics
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: A1 Spanish
+        title: Languages
+        url: blogs/languages
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        title: Sports and Activities
+        url: blogs/sports
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
