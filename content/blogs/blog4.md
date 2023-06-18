@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:42:51-05:00"
 description: Analyzing flight details using Data Analysis and Manipulation
 draft: false
-image: pic11.jpg
+image: flightanalysis.jpeg
 keywords: ""
 slug: flights
 title: Various Flight Analysis

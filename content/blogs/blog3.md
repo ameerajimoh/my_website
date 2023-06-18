@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:26:13-05:00"
 description: From an introductory course in RStudio to an elective on data science in business, I discovered the immense potential of leveraging data to gain insights into financial concepts. In this blog post, I will share how my interest in data analytics grew and how I'm excited to apply the concepts I've learned beyond my time at LBS.
 draft: false
-image: pic08.jpg
+image: dataanalysis.webp
 keywords: ""
 slug: dataanalytics
 title: Unlocking the Power of Data Analytics

@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:26:13-05:00"
 description: Scaping for Positions- Consulting Jobs
 draft: false
-image: pic08.jpg
+image: scrapit.jpeg
 keywords: ""
 slug: scraping
 title: Web Scaping 

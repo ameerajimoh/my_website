@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:26:09-05:00"
 description: Interactive Classes and Cultural Immersion
 draft: false
-image: pic09.jpg
+image: languages01.jpeg
 keywords: ""
 slug: languages
 title: Spanish Learning Journey at LBS
