@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (647) 627-7220 x1234
+      - phone: (647) 627-7220 x1
         title: Phone
   custom_css: []
   custom_js: []
@@ -71,12 +71,12 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      #- name: Generic Blog
+       # url: blogs/ipsum
+     # - name: Elements
+      #  url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
+   # subtitle: By HTML5 Up
     title: Forty
   tiles:
     enable: yes
@@ -108,12 +108,10 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
+    subtitle: "Welcome to my website for DSB2023 course!
+      \n    Here, you'll find a collection of my previous projects completed using R, showcasing the power of data analytics. \n   
+     Additionally, I share captivating blogs that delve into my personal interests, hobbies, and reflections on my time at London Business School. \n  
+     Join me on this journey of exploration and discovery as we unlock the potential of data and share memorable experiences along the way."
     title: Massa libero
     url: blogs
 markup: 
