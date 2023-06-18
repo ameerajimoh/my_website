@@ -93,4 +93,4 @@ most_frequent_plane <- most_frequent_plane %>%
 most_frequent_plane
 ```
 
-![](images/pic16.jpg)
+![](images/pic011-01.jpg)
