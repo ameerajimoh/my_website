@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
       CONTENT:
-      COURSE MATERIAL,PROJECTS
+      COURSE MATERIAL, PROJECTS
     title: Hi, my name is Ameera and I am a MFA student at LBS and this website is for DSB2023
   blog: {}
   contact:
@@ -42,15 +42,15 @@ params:
        text: 'Design: '
        url: https://www.html5up.net
     social:
-      #- icon: fa-twitter
-     #   label: Twitter
-    #    url: https://www.twitter.com
-     # - icon: fa-facebook
-      #  label: Facebook
-     #   url: https://www.facebook.com
-      #- icon: fa-instagram
-      #  label: Instagram
-       # url: https://www.instagram.com
+      - icon: fa-twitter
+        label: Twitter
+        url: https://www.twitter.com
+      - icon: fa-facebook
+        label: Facebook
+        url: https://www.facebook.com
+      - icon: fa-instagram
+        label: Instagram
+        url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
         url: https://github.com/ameerajimoh
@@ -120,4 +120,3 @@ markup:
   goldmark: 
     renderer: 
       unsafe: true
-
