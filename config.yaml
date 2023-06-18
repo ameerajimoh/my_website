@@ -81,27 +81,27 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
+      - image: stockjpg.jpeg
         subtitle: Risk-Return of DJIA stocks
         title: Stock Analysis
         url: blogs/risk_return
-      - image: pic02.jpg
+      - image: datajpg.jpeg
         subtitle: Unlocking Opportunities with Data
         title: The Data Analytics Advantage
         url: blogs/dataanalytics
-      - image: pic03.jpg
+      - image: lang.jpeg
         subtitle: A1 Spanish
         title: Languages
         url: blogs/languages
-      - image: pic04.jpg
+      - image: sports.webp
         subtitle: Active Hobbies
         title: Sports and Activities
         url: blogs/sports
-      - image: pic05.jpg
+      - image: flights.webp
         subtitle: Data Manipulation and Analysis of Flights
         title: Analyzing Flight Details
         url: blogs/flights
-      - image: pic06.jpg
+      - image: scrap01.png
         subtitle: Scaping for Positions- Consulting Jobs
         title: Web Scaping
         url: blogs/scraping
