@@ -7,7 +7,7 @@ description: Analyzing flight details using Data Analysis and Manipulation
 draft: false
 image: pic11.jpg
 keywords: ""
-slug: flight
+slug: flights
 title: Various Flight Analysis
 ---
 
