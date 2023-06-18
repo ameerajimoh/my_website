@@ -112,13 +112,9 @@ params:
       \n    Here, you'll find a collection of my previous projects completed using R, showcasing the power of data analytics. \n   
      Additionally, I share captivating blogs that delve into my personal interests, hobbies, and reflections on my time at London Business School. \n  
      Join me on this journey of exploration and discovery as we unlock the potential of data and share memorable experiences along the way."
-    title: Massa libero
+    title: Welcome Message
     url: blogs
 markup: 
   goldmark: 
     renderer: 
-<<<<<<< HEAD
       unsafe: true
-=======
-      unsafe: true
->>>>>>> 32cca3f531f443cb8306eb4869de7142d7bf9d8b
