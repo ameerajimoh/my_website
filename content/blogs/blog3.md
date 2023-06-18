@@ -8,7 +8,7 @@ draft: false
 image: pic08.jpg
 keywords: ""
 slug: tempus
-title: Unlocking the Power of Data Analytics: My Journey at LBS
+title: Unlocking the Power of Data Analytics
 ---
 
 Data Analytics for Finance: A Spark of Curiosity
