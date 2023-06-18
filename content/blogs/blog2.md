@@ -23,4 +23,8 @@ Practical Application:
 Our interactive classes extended beyond the classroom. We actively sought opportunities to practice our skills in authentic settings, such as ordering food at local restaurants or conversing with native Spanish speakers during our travels. This practical application enhanced our learning and boosted our confidence.
 
 Personal and Professional Growth:
+<<<<<<< HEAD
 Learning Spanish at LBS had a profound impact on my personal and professional growth. It expanded my network, bridged cultural gaps, and fostered meaningful connections. Additionally, my language skills became a valuable asset in the business world, opening doors to international opportunities and collaborations.
+=======
+Learning Spanish at LBS had a profound impact on my personal and professional growth. It expanded my network, bridged cultural gaps, and fostered meaningful connections. Additionally, my language skills became a valuable asset in the business world, opening doors to international opportunities and collaborations.
+>>>>>>> 660fb17349d3a609ade070e460c0e9effa0b23c1
